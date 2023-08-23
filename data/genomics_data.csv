@@ -1,6 +1,7 @@
-Sample_ID,Genomics_Gene1,Genomics_Gene2,Genomics_Gene3
-Sample1,0.123,0.456,0.789
-Sample2,0.234,0.567,0.890
-Sample3,0.345,0.678,0.901
-Sample4,0.456,0.789,0.012
-Sample5,0.567,0.890,0.123
+Sample_ID,Gene_ABC,Gene_DEF,Gene_XYZ,Gene_PQR,Gene_LMN
+Sample1,0.034,0.081,0.023,0.012,0.065
+Sample2,0.041,0.072,0.025,0.014,0.061
+Sample3,0.038,0.085,0.021,0.016,0.057
+Sample4,0.036,0.079,0.020,0.015,0.063
+Sample5,0.033,0.087,0.018,0.011,0.068
+

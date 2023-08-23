@@ -1,0 +1,6 @@
+Sample_ID,Genomics_Gene1,Genomics_Gene2,Genomics_Gene3
+Sample1,0.123,0.456,0.789
+Sample2,0.234,0.567,0.890
+Sample3,0.345,0.678,0.901
+Sample4,0.456,0.789,0.012
+Sample5,0.567,0.890,0.123
